@@ -1,0 +1,44 @@
+{
+  "authors": [
+    {
+      "id": "57204546139",
+      "name": "Ernoult M.",
+      "affiliation": "Unite Mixte de Physique CNRS/Thales and Univ. Paris Sud, Palaiseau, 91767, France"
+    },
+    {
+      "id": "6602984021",
+      "name": "Grollier J.",
+      "affiliation": "Centre de Nanosciences et de Nanotechnologies, Univ. Paris-Sud, CNRS, Orsay, 91405, France"
+    },
+    {
+      "id": "23486539100",
+      "name": "Querlioz D.",
+      "affiliation": "Sorbonne Université, Paris, 75006, France"
+    }
+  ],
+  "title": "Using Memristors for Robust Local Learning of Hardware Restricted Boltzmann Machines",
+  "year": "2019",
+  "source-title": "Scientific Reports",
+  "volume": "9",
+  "issue": "1",
+  "art": { " No": { "": "1851" } },
+  "page-start": "",
+  "page-end": "",
+  "page-count": "",
+  "cited-by": "",
+  "doi": "10.1038/s41598-018-38181-3",
+  "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061479270&doi=10.1038%2fs41598-018-38181-3&partnerID=40&md5=84fd07ed43cfe3b137cb8a33cdf05487",
+  "affiliations": [
+    "Unite Mixte de Physique CNRS/Thales and Univ. Paris Sud, Palaiseau, 91767, France",
+    "Centre de Nanosciences et de Nanotechnologies, Univ. Paris-Sud, CNRS, Orsay, 91405, France",
+    "Sorbonne Université, Paris, 75006, France"
+  ],
+  "authors-with-affiliations": "Ernoult, M., Unite Mixte de Physique CNRS/Thales and Univ. Paris Sud, Palaiseau, 91767, France, Centre de Nanosciences et de Nanotechnologies, Univ. Paris-Sud, CNRS, Orsay, 91405, France, Sorbonne Université, Paris, 75006, France; Grollier, J., Unite Mixte de Physique CNRS/Thales and Univ. Paris Sud, Palaiseau, 91767, France; Querlioz, D., Centre de Nanosciences et de Nanotechnologies, Univ. Paris-Sud, CNRS, Orsay, 91405, France",
+  "abstract": "One of the biggest stakes in nanoelectronics today is to meet the needs of Artificial Intelligence by designing hardware neural networks which, by fusing computation and memory, process and learn from data with limited energy. For this purpose, memristive devices are excellent candidates to emulate synapses. A challenge, however, is to map existing learning algorithms onto a chip: for a physical implementation, a learning rule should ideally be tolerant to the typical intrinsic imperfections of such memristive devices, and local. Restricted Boltzmann Machines (RBM), for their local learning rule and inherent tolerance to stochasticity, comply with both of these constraints and constitute a highly attractive algorithm towards achieving memristor-based Deep Learning. On simulation grounds, this work gives insights into designing simple memristive devices programming protocols to train on chip Boltzmann Machines. Among other RBM-based neural networks, we advocate using a Discriminative RBM, with two hardware-oriented adaptations. We propose a pulse width selection scheme based on the sign of two successive weight updates, and show that it removes the constraint to precisely tune the initial programming pulse width as a hyperparameter. We also propose to evaluate the weight update requested by the algorithm across several samples and stochastic realizations. We show that this strategy brings a partial immunity against the most severe memristive device imperfections such as the non-linearity and the stochasticity of the conductance updates, as well as device-to-device variability. © 2019, The Author(s).",
+  "author-keywords": [],
+  "document-type": "Article",
+  "publication-stage": "Final",
+  "access-type": "Open Access",
+  "source": "Scopus",
+  "eid": "2-s2.0-85061479270"
+}
