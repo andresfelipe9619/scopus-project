@@ -1,6 +1,6 @@
 const fs = require("fs");
 var slugify = require("slugify");
-let rawdata = fs.readFileSync("scopus.json");
+let rawdata = fs.readFileSync("./scopus.json");
 let scopus = JSON.parse(rawdata);
 let documents = scopus.map(document => {
   let newDocument = {};
@@ -20,7 +20,8 @@ let documents = scopus.map(document => {
     } else if (newKey === "affiliations") {
       affiliations = document[key].split("; ");
       newDocument[newKey] = affiliations;
-    } else if (newKey === "author-keywords") {
+    } else if (newKey === "authors-with-affiliations") return;
+    else if (newKey === "author-keywords") {
       authorKeywords = document[key].split("; ");
       newDocument[newKey] = !authorKeywords[0] ? [] : authorKeywords;
     } else {
@@ -35,5 +36,12 @@ let documents = scopus.map(document => {
   newDocument["authors"] = newAuthors;
   return newDocument;
 });
-let fileData = JSON.stringify(documents);
-fs.writeFileSync("./output/after.json", fileData);
+try {
+  let fileData = JSON.stringify(documents[0]);
+  fs.writeFileSync("./output/after.json", fileData);
+  console.log("File parsed successfully!");
+} catch (e) {
+  console.error("Error trying to parse json", e);
+} finally {
+  console.log("Script ends");
+}

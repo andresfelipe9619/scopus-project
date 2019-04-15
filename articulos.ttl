@@ -1,0 +1,1495 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .@prefix article: <http://dbpedia.org/ontology/Article> .
+@prefix author: <http://dbpedia.org/ontology/Author> .@prefix ex: <http://example.org/authors> .
+
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026412413&doi=10.1016%2fj.scitotenv.2017.07.101&partnerID=40&md5=0fe7df234535ce8a840348d6fe2a204e>
+foaf:year "2019" ;
+foaf:title "Association between chronic exposure to different water iodine and thyroid cancer: A retrospective study from 1995 to 2014" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "The controversy that iodine intake may increase the risk of thyroid cancer has heightened over the past twenty years. In this retrospective study, we mainly analyzed the association between water iodine and thyroid cancer and discussed the possible cause of the increase in thyroid cancer. This study was supported by three hospitals in areas with different water iodine concentration. 5574 patients with thyroid disease were recruited, of which 1429 patients had been diagnosed with thyroid cancer. These samples collectively were used to analyze the relationship of incidence and prevalence associated with water iodine. In addition, the ratio of maximum tumor diameter was analyzed. By analyzing the proportion of patients with thyroid cancer in thyroid diseases, we found a decrease in the proportion of thyroid cancer with increasing water iodine (P < 0.0001). In addition, there was no significant correlation between the median water iodine and the prevalence of thyroid cancer, including papillary thyroid cancer (P > 0.05). Meanwhile, the 5 years' cumulative incidence of thyroid cancer increased with years (P < 0.01). Comparing Cao county and Shan county, which are areas with high water iodine, to adequate iodine area such as in Mudan district, an increasing incidence is observed in 2010–2014 in Mudan district. Again, we observed a significant increase in the proportion of thyroid cancer with tumor size < 1 cm (P < 0.01). Therefore, we concluded that cause(s) of increase in thyroid cancer may be ascribed to the sensitive diagnostic techniques and the improvement of living condition, but not water iodine. © 2017" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Lv C." ;
+foaf:id  "57195233635" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Yang Y." ;
+foaf:id  "7409385456" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Jiang L." ;
+foaf:id  "57198538359" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Gao L." ;
+foaf:id  "57190749149" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Rong S." ;
+foaf:id  "54414669500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Darko G.M." ;
+foaf:id  "57190729739" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Jiang W." ;
+foaf:id  "55276495900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Gao Y." ;
+foaf:id  "8587799600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Sun D." ;
+foaf:id  "56220416600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Incidence" ;
+],
+[
+foaf:keyword  " Retrospective study" ;
+],
+[
+foaf:keyword  " Sensitive diagnosis" ;
+],
+[
+foaf:keyword  " Thyroid cancer" ;
+],
+[
+foaf:keyword  " Water iodine" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030246295&doi=10.1183%2f16000617.0066-2017&partnerID=40&md5=e8c225f40c3531ecb30f79b459a1eaae>
+foaf:year "2017" ;
+foaf:title "Personalised medicine for nonsmall cell lung cancer" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "After years of standard care prescribed to cancer patients without any selection except the primary site and histology of the tumour, the era of precision medicine has revolutionised cancer care. Personalised medicine refers to the selection of patients for specific treatment based on the presence of specific biomarkers which indicate sensitivity to corresponding targeted therapies and/or lower toxicity risk, such that patients will have the greatest chance of deriving benefit from the treatments. Here, we review personalised medicine for nonsmall cell lung cancer. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Mascaux C." ;
+foaf:id  "6601971718" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Tomasini P." ;
+foaf:id  "42662357400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Greillier L." ;
+foaf:id  "6506891719" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Barlesi F." ;
+foaf:id  "7004068464" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023636452&doi=10.1016%2fj.scitotenv.2017.07.061&partnerID=40&md5=645ceea73384dae6d05450298c1ea38b>
+foaf:year "2017" ;
+foaf:title "Forecasting PM2.5 induced male lung cancer morbidity in China using satellite retrieved PM2.5 and spatial analysis" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "The present study predicts a spatial distribution of lung cancer morbidity in Chinese males due to exposure to PM2.5 concentration from 2010 to 2015. A spatial autocorrelation method was used to evaluate the spatial relationship between the lung cancer morbidities from 2006 to 2009 and satellite-derived PM2.5 atmospheric levels. A comprehensive grey correlation degree analysis was carried out to assess the simultaneous and lag associations between the lung cancer morbidity and PM2.5 concentration. These relationships were subsequently applied to predict male lung cancer morbidity in a specific year. Annual mean PM2.5 levels in this specific year and previous 8 years were used as 9 independent variables to establish four statistical models. These models include ridge regression (RR), partial least squares regression (PLSR), support vector regression (SVR), and the combined forecasting model (CFM) to predict the male lung cancer morbidity in China from 2010 to 2015. The model error evaluations suggested that the partial least squares regression model performed the best in the male lung cancer morbidity forecast. We calculated the male lung cancer morbidity by the optimal method among the established statistical forecasting models at 1948 sites in China. The gridded morbidity distribution from 2010 to 2015 across the country was obtained by Kriging interpolation method. Results showed that the male lung cancer morbidity increased significantly from western to eastern China, except for the far north region. This spatial pattern is in line with the spatial distribution of PM2.5 concentration, manifesting a significant relationship between PM2.5 concentration level and lung cancer morbidity in Chinese males. © 2017" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Han X." ;
+foaf:id  "57194858219" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Liu Y." ;
+foaf:id  "35956467200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Gao H." ;
+foaf:id  "56532821600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ma J." ;
+foaf:id  "55736178000" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Mao X." ;
+foaf:id  "55640140500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Wang Y." ;
+foaf:id  "57194858719" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ma X." ;
+foaf:id  "57194854777" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "China" ;
+],
+[
+foaf:keyword  " Lung cancer" ;
+],
+[
+foaf:keyword  " Male" ;
+],
+[
+foaf:keyword  " Morbidity" ;
+],
+[
+foaf:keyword  " PM2.5" ;
+],
+[
+foaf:keyword  " Spatial analysis" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040983160&partnerID=40&md5=b6621abe4c41026b89fba1b1713a2012>
+foaf:year "2017" ;
+foaf:title "Association of CYP1A1 gene polymorphism with breast cancer incidence" ;
+foaf:source_title "International Journal of Research in Pharmaceutical Sciences" ;
+foaf:abstract "This study was aimed to investigate the molecular detection of the CYP1A1 gene polymorphism and its role in breast cancer enhancement. Additionally, understanding some of the environmental factors and their relationship to the occurrence of breast cancer was proposed for this study. Blood samples were collected from 50 women at ages between 21-71 years old, that suffered from breast cancer and 50 healthy women who are considered as a control group. The samples were placed in EDTA-based tubes. Then, the samples were kept frozen at -20 ̊C for later DNA extraction and polymerase chain reaction (PCR) laboratory procedures. The results of the mutation analyses of the CYP1A1 gene for the cancer and the healthy groups revealed that the occurrence frequencies of the homozygous wild type isoleucine/isoleucine were 52% and 26% respectively. While they were 42% and 60% respectively for the homozygous mutant Val/Val. Moreover, the heterozygous mutant Val/Ile type showed presence at 6% and 14% respectively. The statistical analyses confirmed that the incidence of the breast cancer could increase with genetic trait of the homozygous mutant Val/Val in a difference rate of 1.4 and confidence interval at 3.337-0.587. The findings of this study also declared that the women who carried the heterozygous mutant Val/Ile and their menstrual cycle started at the ages between 14-17 years old had 4 times of the risk factor of developing breast cancer. The study also revealed that there were no significant differences between the women who had breast cancer if they had early or late menopause. Finally, the study results showed that there was 3 times risk factor of developing breast cancer in uneducated women when linked to the genotypic trait Val/Ile in a difference rate of 3.2 and confidence interval of 40.057-0.265. It has been concluded that the risk factor of breast cancer was increased in the uneducated women in the presence of the Val/Ile genotype. This could be reasoned to the lifestyle of exposing to chemicals, paints, smoking, and many environmental carcinogens. © JK Welfare & Pharmascope Foundation | International Journal of Research in Pharmaceutical Sciences." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Mutar H.A." ;
+foaf:id  "57200368329" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Breast cancer" ;
+],
+[
+foaf:keyword  " CYP1A1 gene polymorphism" ;
+],
+[
+foaf:keyword  " Polymerase chain reaction (PCR)" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85024504272&doi=10.1016%2fj.scitotenv.2017.07.131&partnerID=40&md5=36c6739ab0d1b25d0eef96c9e888e050>
+foaf:year "2017" ;
+foaf:title "Comments on “Radiofrequency electromagnetic fields and some cancers of unknown etiology: An ecological study”" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "This correspondence refers to the Science of the Total Environment article by Gonzalez-Rubio et al. entitled “Radiofrequency electromagnetic fields and some cancers of unknown etiology: An ecological study”. Authors of this paper have presented the findings of their preliminary epidemiological study which combined epidemiology, statistics and geographical information systems (GIS). Gonzalez-Rubio et al. have analyzed the possible link between exposure to Radiofrequency Electromagnetic Fields (RF-EMF) in the city of Albacete, Spain and the incidence of cancers such as lymphomas, and brain tumors. The shortcomings of this study are discussed. © 2017" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Mortazavi S.A.R." ;
+foaf:id  "56049565300" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Mortazavi G." ;
+foaf:id  "26637103200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Mortazavi S.M.J." ;
+foaf:id  "57199416316" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Cancer" ;
+],
+[
+foaf:keyword  " Electromagnetic fields" ;
+],
+[
+foaf:keyword  " Mobile phone" ;
+],
+[
+foaf:keyword  " Radiofrequency" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052223844&doi=10.5604%2f01.3001.0010.6746&partnerID=40&md5=478a8d74ffbc1e875116bbc01acf974c>
+foaf:year "2017" ;
+foaf:title "Cytoreductive surgery and HIPEC in the treatment of peritoneal metastases of sarcomas and other rare malignancies" ;
+foaf:source_title "Polski Przeglad Chirurgiczny/ Polish Journal of Surgery" ;
+foaf:abstract "Cytoreductive surgery (CRS) combined with hyperthermic intraperitoneal chemotherapy (HIPEC) in intraperitoneal dissemination of colorectal carcinoma, pseudomyxoma peritonei or gastric cancer is becoming standard practice. The evaluation of the effectiveness of such management in other cancers is still the subject of clinical trials. It is particularly difficult to assess the effectiveness of CRS and HIPEC in the treatment of intraperitoneal spread of rare types of malignancies such as sarcomas or small intestine cancer. The available, mainly retrospective, studies have been reviewed and discussed. They confirm the efficacy of cytoreductive procedures, especially if complete surgical cytoreduction (CC-0/1) has been achieved, however, the effectiveness of HIPEC requires further prospective studies. © 2018 Fundacja Polski Przeglad Chirurgiczny." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Olesinski T." ;
+foaf:id  "18434503200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "cytoreductive surgery" ;
+],
+[
+foaf:keyword  " DRSCT" ;
+],
+[
+foaf:keyword  " HIPEC" ;
+],
+[
+foaf:keyword  " peritoneal carcinomatosis" ;
+],
+[
+foaf:keyword  " Sarcoma" ;
+],
+[
+foaf:keyword  " small bowel adenocarcinoma" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047323396&partnerID=40&md5=4a95ed6276cec9ba229d0c807affe5fc>
+foaf:year "2017" ;
+foaf:title "Prevalence and biosocial determinants of potentially malignant disorders of oral soft tissue in slum population of Western Uttar Pradesh" ;
+foaf:source_title "Indian Journal of Community Health" ;
+foaf:abstract "Background: Oral cancer ranks in the top three of all cancers in India, which accounts for over thirty per cent of all cancers reported in the country and oral cancer control is quickly becoming a global health priority. Early diagnosis is the most important single factor in combating oral cancer and improving the survival rate. Aim and objectives: To find out the prevalence of potentially malignant disorders (PMDs) of oral soft tissues in above 15 years age population and to find the biosocial determinants of PMDs of oral soft tissues. Material & Methods: Community based, cross sectional study, carried out in a randomly selected urban slum area of Agra, among 1254 individuals of more than 15 years of age. The individuals were interviewed, and oral cavity was examined to detect the PMDs of oral soft tissues. Results: The prevalence of PMDs of oral soft tissues was found 16.45%. Prevalence of sub mucosal fibrosis (SMF) is 10.61% followed by leukoplakia (5.11%) and erythroplakia 0.72%. Prevalence of PMDs in males is 23.22% which is much higher than females 8.24%. Prevalence of SMF is much higher in illiterates 19.01%. Unemployed individuals showed lower prevalence of PMDs i.e. 14.73% in comparison to semiskilled laborers 47.56%. PMD prevalence is higher in lower social classes 17.55%. Conclusion: Prevalence of PMDs is higher in males and illiterates. PMDs of oral soft tissues showed statistically significant increase in prevalence with advancing age. Statistically significantly lower prevalence is found in unemployed and housewives. Prevalence is high among laborers and lower social classes. © 2017, Indian Association of Preventive and Social Medicine. All rights reserved." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Kumar A." ;
+foaf:id  "56714262400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Agrawal R." ;
+foaf:id  "57205270899" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Misra S.K." ;
+foaf:id  "57202160015" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Prakash G." ;
+foaf:id  "16751617200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Erythoplakia" ;
+],
+[
+foaf:keyword  " Leukoplakia" ;
+],
+[
+foaf:keyword  " Oral cancer" ;
+],
+[
+foaf:keyword  " Oral soft tissues" ;
+],
+[
+foaf:keyword  " Potentially malignant disorders" ;
+],
+[
+foaf:keyword  " Sub mucosal fibrosis" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039733769&doi=10.1183%2f16000617.0025-2017&partnerID=40&md5=90bd74ed0f19592c8e979c9988bda60a>
+foaf:year "2017" ;
+foaf:title "Lung nodules: Size still matters" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "The incidence of indeterminate pulmonary nodules has risen constantly over the past few years. Determination of lung nodule malignancy is pivotal, because the early diagnosis of lung cancer could lead to a definitive intervention. According to the current international guidelines, size and growth rate represent the main indicators to determine the nature of a pulmonary nodule. However, there are some limitations in evaluating and characterising nodules when only their dimensions are taken into account. There is no single method for measuring nodules, and intrinsic errors, which can determine variations in nodule measurement and in growth assessment, do exist when performing measurements either manually or with automated or semi-automated methods. When considering subsolid nodules the presence and size of a solid component is the major determinant of malignancy and nodule management, as reported in the latest guidelines. Nevertheless, other nodule morphological characteristics have been associated with an increased risk of malignancy. In addition, the clinical context should not be overlooked in determining the probability of malignancy. Predictive models have been proposed as a potential means to overcome the limitations of a sized-based assessment of the malignancy risk for indeterminate pulmonary nodules. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Larici A.R." ;
+foaf:id  "6508250400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Farchione A." ;
+foaf:id  "55348670600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Franchi P." ;
+foaf:id  "56000951100" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ciliberto M." ;
+foaf:id  "56031449800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Cicchetti G." ;
+foaf:id  "56694772200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Calandriello L." ;
+foaf:id  "23003400500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " del Ciello A." ;
+foaf:id  "8576168000" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Bonomo L." ;
+foaf:id  "35419761500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052196976&doi=10.5604%2f01.3001.0010.6736&partnerID=40&md5=6a45b655b44500f1cc8f39eba0dac63c>
+foaf:year "2017" ;
+foaf:title "Association between clinical stage of oral cancer and expression of immunohistochemical markers" ;
+foaf:source_title "Polski Przeglad Chirurgiczny/ Polish Journal of Surgery" ;
+foaf:abstract "Aim: The aim of this study is to demonstrate the possible correlation between the expression of examined protein markers - p53, EGFR, PCNA, p44/42 in the mass of the tumor and the clinical stage of disease. Material: 48 patients of the Department and Clinic of Oral and Maxillofacial Surgery, Lublin diagnosed with oral cancer. The control group consisted of 10 patients diagnosed with leukoplakia lesions in the oral cavity. The methods: Immunohistochemical analysis using the detection system DAKO K5007 Cat - Dako REAL ™ Detection System, Peroxidase DAB +, Rabbit / Mouse. Results: Based upon the statistical results, significant correlation between p53 protein and tumor staging; however, a correlation between the level of expression of EGFR, p44/42, PCNA and staging was not likewise revealed. Conclusions: Looking for oral squamous cell carcinoma markers remains an actual issue. Identification of specific markers of oral cancer could be used in screening the population, determining prognosis and response to treatment. © 2018 Fundacja Polski Przeglad Chirurgiczny." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Wiatkowski W." ;
+foaf:id  "57204760207" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Rahnama M." ;
+foaf:id  "7003547197" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Tomaszewski T." ;
+foaf:id  "6701728258" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Bigas M." ;
+foaf:id  "57203548441" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Wiatkowska A." ;
+foaf:id  "57204759156" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Obacz M." ;
+foaf:id  "57204765319" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Wallner J." ;
+foaf:id  "53165001900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "neoplasm markers" ;
+],
+[
+foaf:keyword  " oral cancer" ;
+],
+[
+foaf:keyword  " proliferation markers" ;
+],
+[
+foaf:keyword  " squamous cell carcinoma" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052203468&doi=10.5604%2f01.3001.0010.6735&partnerID=40&md5=6e597ce9a69bec5c8a4fca00ef2637ce>
+foaf:year "2017" ;
+foaf:title "Landscape of oncoplastic breast surgery across Poland" ;
+foaf:source_title "Polski Przeglad Chirurgiczny/ Polish Journal of Surgery" ;
+foaf:abstract "Oncoplastic and reconstructive techniques are essential tools in the armamentarium of contemporary breast surgeons. The aim of the study was to identify oncoplastic reconstructive patterns in breast cancer centers across Poland. A questionnaire of 18 questions was sent by email to the members of the Polish Society of Surgical Oncology and the Polish Society of Plastic, Reconstructive and Esthetic Surgery via their dedicated websites. The numbers of breast cancer patients operated on in each center ranged from 120 to 904 per year. Breast conserving surgery (BCS) predominated in all but one center (range 50-70%). Immediate breast reconstructions (IBR) accounted for 6-42% of procedures, The most frequent type of IBR was either a two-stage expander followed by a permanent implant or one-stage implant- based with or without synthetic mesh. The most frequent type of delayed breast reconstruction (DBR) was a two- stage expander followed by implant- based reconstruction. None of the surveyed cancer centers performed free flap reconstruction. Deep inferior epigastric perforator (DIEP) flaps were performed in the plastic surgery department. Reconstructions based on pedicled flaps were performed in cancer centers. Acellular dermal matrices (ADM) and fat transfer were used in selected centers. In the clinical scenario of adjuvant radiotherapy, delayed breast reconstruction was favored. The full range of oncoplastic BCS was performed. Patient-reported outcome measures (PROM) and complications were assessed. Our findings can act as a platform for further improvement in skills, certification, data collection and audit, including patient reported expectation measures. There is also an urgent need to address pan-European inconsistencies in procedural reimbursement. © 2018 Fundacja Polski Przeglad Chirurgiczny." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Kołacinska A." ;
+foaf:id  "23397489400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Hodorowicz-Zaniewska D." ;
+foaf:id  "6504020418" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Bocian A." ;
+foaf:id  "57206498639" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Michalik D." ;
+foaf:id  "57203550162" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Matkowski R." ;
+foaf:id  "8698398800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Kurylcio A." ;
+foaf:id  "6507451481" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Pyka P." ;
+foaf:id  "6508129804" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Charytonowicz M." ;
+foaf:id  "57200367131" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Berkan M." ;
+foaf:id  "57203554065" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "breast cancer" ;
+],
+[
+foaf:keyword  " oncoplastic surgery" ;
+],
+[
+foaf:keyword  " patient reported outcomes" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051724194&doi=10.16429%2fj.1009-7848.2017.12.004&partnerID=40&md5=d394d37167288353b7354cd5ef5491b4>
+foaf:year "2017" ;
+foaf:title "The Anti-proliferation Activity and Mechanism of the Extract from Agaricus bisporus Mushroom Endophyte Bacillus subtilis AB154 on Human Colon Cancer Cell Line Caco-2 [双孢菇内生枯草芽孢杆菌AB154中抑制人结肠癌Caco-2活性成分的发现及机理研究]" ;
+foaf:source_title "Journal of Chinese Institute of Food Science and Technology" ;
+foaf:abstract "A Bacillus subtilis AB154 with anti-proliferation activity on human cancer cells was isolated from the fruit body of white button mushroom (Agaricus bisporus), when we studied the anti-tumor activity of A. bisporus mushroom. The peptide with proliferation inhibiting activity produced by endophyte Bacillus subtilis AB154 was extracted using ammonium sulfate precipitation and DEAE-Sephadex ion exchange chromatography, followed by anti-tumor activity investigation. The results showed that it had a better inhibitory activity against the human colon cancer cell line Caco-2 with IC50 value of 109.94 μg/m L, while the inhibitory ability on human normal bronchial epithelial cell line NHBE was the lowest. Then a peptide component with anti-tumor ability was purified by the high performance liquid chromatography (HPLC), and its structure was identified by matrix-assisted laser desorption/ionization time of flight mass spectrometry (MALDI-TOF MS) and electro spray ionization tandem mass spectrometry (ESI-MS/MS). The result showed that the peptide produced by Bacillus subtilis AB154 belonged to the lipopeptide family of fengycin B1. This research first reported an fengycin B1 lipopeptide with anti-human colon cancer cell Caco-2 activity. The study of inhibitory mechanism showed that the cell cycle of Caco-2 cells treated with fengycin for 12 h were arrested in the G0/G1 phase, and the cell cycle was arrested in the S phase at 24 h. The fragmentation of nuclear chromatin within Caco-2 cells was induced by fengycin. © 2017, Editorial Office of Journal of CIFST. All right reserved." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Liu C." ;
+foaf:id  "57191676453" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Sheng J." ;
+foaf:id  "24067754100" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " David Y." ;
+foaf:id  "57203430468" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Wei L." ;
+foaf:id  "57203434434" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Li X." ;
+foaf:id  "57203435248" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Shang X." ;
+foaf:id  "57203429817" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Chen L." ;
+foaf:id  "57192609329" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Shen L." ;
+foaf:id  "36083286800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Agaricus bisporus" ;
+],
+[
+foaf:keyword  " Bacillus subtilis" ;
+],
+[
+foaf:keyword  " Endophytic" ;
+],
+[
+foaf:keyword  " Fengycin" ;
+],
+[
+foaf:keyword  " Human colon cancer cell line Caco-2" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040721031&partnerID=40&md5=f153619ff4a8de5147e0a2b600653a89>
+foaf:year "2018" ;
+foaf:title "Tumor suppressing potential of Cajanus cajan in 7,12-dimethylbenz(A) anthracene (DMBA)-induced hamster buccal pouch carcinogenesis" ;
+foaf:source_title "International Journal of Research in Pharmaceutical Sciences" ;
+foaf:abstract "Traditional medicine has explored the diverse pharmacological efficacy of Cajanus cajan leaves including anti-inflammatory and antioxidant potential. To scientifically validate the tumor inhibitory potential of Cajanus cajan leaves, the present study utilized the 7,12-dimethylbenz(a)anthracene (DMBA)-induced hamster buccal pouch carcinogenesis as an experimental oral cancer model. The ethanolic extract of Cajanus cajan leaves (CcELet) suppressed the tumor formation in the pre- initiation phase and reduced the formation of tumors and tumor size as well in the post-initiation phase. Also, the Cajanus cajan leaves modulated the status of lipid peroxidation, antioxidants, and phase I and phase II detoxification agents towards tumor inhibition in the hamsters treated with DMBA. The results of the study thus explore the anti-tumor potential of Cajanus cajan leaves during DMBA induced hamster buccal pouch carcinogenesis. © J. K. Welfare & Pharmascope Foundation." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Hemalatha K." ;
+foaf:id  "56465641900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Manoharan S." ;
+foaf:id  "34971576900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Begum M.S." ;
+foaf:id  "57200305257" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Neelakandan M." ;
+foaf:id  "57193998137" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Antioxidants" ;
+],
+[
+foaf:keyword  " Cajanus cajan" ;
+],
+[
+foaf:keyword  " Detoxification agents" ;
+],
+[
+foaf:keyword  " Lipid peroxidation" ;
+],
+[
+foaf:keyword  " Oral cancer" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040973332&partnerID=40&md5=7f1b3519e86235289d89b09358f9a0e1>
+foaf:year "2018" ;
+foaf:title "Methanol extracts of four selected marine sponges induce apoptosis in human breast cancer cell line, MCF-7" ;
+foaf:source_title "International Journal of Research in Pharmaceutical Sciences" ;
+foaf:abstract "Breast cancer is the most frequently diagnosed cancers among women worldwide. However, due to limited chemotherapeutic efficacy of current anticancer drugs, various natural products have been screened for novel alternative chemotherapeutic agents. Marine environment offers vast diversity of living organisms that provide compounds with impressive structural diversity and drug-like properties. Therefore, the main aim of this study was to determine the cytotoxic effects and mechanisms of cell death exerted by marine sponges on human breast cancer cell line, MCF-7. Four species, namely Aaptos sp., Stryphuous ponderosus, Theonella sp. and Xestospongia sp, were selected for this study. Methanol extracts from three species produced potent cytotoxicity effects with IC50 values at 72hr of less than 30μg/ml in the order of Aaptos sp. > S. ponderosus > Theonella sp. Due to the lack of studies on S. ponderosus, extract from this species was then used to determine its mechanisms of cell death. MCF-7 cell death exerted by the extract was found to be mediated by apoptosis based on the presence of DNA fragmentation in treated cells. Treatment of cells with the extract increased the levels of of caspase 3 suggesting that the protein was responsible in triggering the DNA fragmentation. In addition, the extract also induced the levels of caspases 8 and 9 and the levels of caspase 8 was higher than the latter suggesting that extrinsic was the major pathway that involved in inducing apoptosis. The apoptotic-induced cytototoxicity activity of the methanol extract of S. ponderosus may be due to the presence alkaloid and terpenoid compounds, and thus, may have the potential to be developed further as candidates for chemotherapeutic drugs for the treatment of breast cancer. © JK Welfare & Pharmascope Foundation | International Journal of Research in Pharmaceutical Sciences." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Hudayah T." ;
+foaf:id  "57200363605" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Gul-E-Saba" ;
+foaf:id  "55603161400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Taib M." ;
+foaf:id  "6603895863" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ismail N." ;
+foaf:id  "55579449900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Muhammad T.S.T." ;
+foaf:id  "6507176556" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Apoptosis" ;
+],
+[
+foaf:keyword  " Breast cancer" ;
+],
+[
+foaf:keyword  " Caspases" ;
+],
+[
+foaf:keyword  " Marine extract" ;
+],
+[
+foaf:keyword  " S. ponderosus" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021662243&doi=10.1016%2fj.scitotenv.2017.06.272&partnerID=40&md5=c92b0f1c7eb013233c8f5e0c8c8df7c6>
+foaf:year "2018" ;
+foaf:title "High cancer risks by exposure to PCDD/Fs in the neighborhood of an Integrated Waste Management Facility" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "In 2014, we conducted a study aimed at screening the concentrations of polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/Fs), polychlorinated biphenyls (PCBs) and various trace elements in air and soil samples collected in an urban area of Sant Adrià de Besòs (Barcelona, Spain) in the vicinity of an Integrated Waste Management Facility (IWMF). It consists of a mechanical-biological treatment plant (MBT) and an old municipal solid waste incinerator (MSWI). Human health risks for the population living in the area were also assessed. The most worrying result was the high cancer risks estimated for the area (2.5 × 10− 6). In March 2017, we have carried out a new survey to check if the authorities had taken the necessary and urgent measures to reduce the environmental concentrations of PCDD/Fs -and the human health risks- until acceptable levels. Although the concentrations of PCDD/Fs in soils are currently lower (mean value: 1.66 vs. 3.6 ng WHO-TEQ/kg in 2014), they are still are notably higher than those found near other MSWIs of Catalonia. In turn, the levels of PCDD/Fs in air are even higher than in 2014 (mean value: 0.044 vs. 0.026 pg WHO-TEQ/m3 in 2014), being also the highest detected in similar zones of Catalonia. The current cancer risk due to PCDD/F exposure for the residents in the neighborhood of the IWMF is 2.3 × 10− 6, a worrying fact as the 10− 6 threshold continues to be exceeded. © 2016 Elsevier B.V." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Domingo J.L." ;
+foaf:id  "7201472274" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Rovira J." ;
+foaf:id  "36144515500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Nadal M." ;
+foaf:id  "7004563295" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Schuhmacher M." ;
+foaf:id  "57200588141" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Cancer risks" ;
+],
+[
+foaf:keyword  " Integrated Waste Management Facility" ;
+],
+[
+foaf:keyword  " Municipal Solid Waste Incinerator" ;
+],
+[
+foaf:keyword  " PCDD/Fs" ;
+],
+[
+foaf:keyword  " Urban area" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026214766&doi=10.1016%2fj.scitotenv.2017.07.203&partnerID=40&md5=325a84d00af32bd1ab05efa942a531bd>
+foaf:year "2018" ;
+foaf:title "Organochlorine pesticides in the indoor air of a theatre and museum in the Czech Republic: Inhalation exposure and cancer risk" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "Organochlorine pesticides (OCPs) have been used to preserve the integrity of historical buildings or to protect collections of artefacts at potentially large volumes and often without detailed application records. Previous research has focused on the efficiency of remediation at contaminated sites (where identified), as well as improvement of preservation techniques and workplace health and safety. Few studies have assessed the human health risks from occupational exposure to OCPs in buildings of cultural and historical importance. Thus, potential risks may remain unidentified. In the present study, OCPs in indoor air were measured in a baroque theatre and a natural history museum in the Czech Republic, both of which had suspected past indoor application. In the theatre attic p,p′-dichlorodiphenyldichloroethylene (p,p′-DDE) levels in air were up to 190 ng m− 3, confirming past indoor use of p,p′-dichlorodiphenyltrichloroethane (p,p′-DDT). There was also evidence of γ-hexachlorocyclohexane (γ-HCH) use in the theatre (max γ-HCH in air of 56 ng m− 3). Yet, the cancer risk (CR) from occupational exposure via inhalation (Expi) to OCPs in the theatre was low (CR &lt; 4.0 × 10− 6). γ-HCH was found at elevated levels in air of the museum (max γ-HCH in air of 15,000 ng m− 3). CR from Expi in the museum was moderate to high (&gt; 1 × 10− 4). Our results show the CR through Expi to OCPs in buildings, such as museums can still be significant enough to warrant mitigation measures, e.g., remediation. © 2017" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Holt E." ;
+foaf:id  "23979803700" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Audy O." ;
+foaf:id  "56054403800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Booij P." ;
+foaf:id  "36980727800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Melymuk L." ;
+foaf:id  "23489269900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Prokes R." ;
+foaf:id  "35745190600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Klánová J." ;
+foaf:id  "6602565572" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Human health (cancer) risk" ;
+],
+[
+foaf:keyword  " Inhalation exposure" ;
+],
+[
+foaf:keyword  " Organochlorine pesticide" ;
+],
+[
+foaf:keyword  " Remediation" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032485119&doi=10.1183%2f16000617.0061-2017&partnerID=40&md5=643d51f91c81f4c416ebefc9729d241a>
+foaf:year "2018" ;
+foaf:title "Use of multitarget tyrosine kinase inhibitors to attenuate platelet-derived growth factor signalling in lung disease" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "Platelet-derived growth factors (PDGFs) and their receptors (PDGFRs) play a fundamental role in the embryonic development of the lung. Aberrant PDGF signalling has been documented convincingly in a large variety of pulmonary diseases, including idiopathic pulmonary arterial hypertension, lung cancer and lung fibrosis. Targeting PDGF signalling has been proven to be effective in these diseases. In clinical practice, the most effective way to block PDGF signalling is to inhibit the activity of the intracellular PDGFR kinases. Although the mechanism of action of such drugs is not specific for PDGF signalling, the medications have a broad therapeutic index that allows clinical use. The safety profile and therapeutic opportunities of these and future medications that target PDGFs and PDGFRs are reviewed. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Kanaan R." ;
+foaf:id  "57196278582" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Strange C." ;
+foaf:id  "57202560080" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032483312&doi=10.1183%2f16000617.0079-2017&partnerID=40&md5=4427e4cd04d8ca88be7638581cb06979>
+foaf:year "2018" ;
+foaf:title "Lung segmentectomy: Does it offer a real functional benefit over lobectomy?" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "Anatomical segmentectomy has been developed to offer better pulmonary function preservation than lobectomy, in stage IA lung cancer. Despite the retrospective nature of most of the studies and the lack of randomised studies, a substantial body of literature today allows us to evaluate to what extent lung function decreases after segmentectomy and whether segmentectomy offers a real functional benefit over lobectomy. From the available series, it emerges that the mean decrease in forced expiratory volume in 1 s (FEV1) is low, ranging from −9% to −24% of the initial value within 2 months and −3 to−13% 12 months after segmentectomy. This reduction in lung function is significantly lower than that induced by lobectomy, but saves only a few per cent of pre-operative FEV1. Moreover, the published results do not firmly establish the functional benefit of segmentectomy over lobectomy in patients with poor lung function. Some issues remain to be addressed, including whether video-assisted thoracic surgery (VATS) segmentectomy may preserve lung function better than VATS lobectomy in patients with poor lung function, especially within the early days after surgery, and whether this may translate to lowering the functional limit for surgery. Eventually, trials comparing stereotactic ablative body radiotherapy, radiofrequency ablation and segmentectomy functional consequences are warranted. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Charloux A." ;
+foaf:id  "7003510363" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Quoix E." ;
+foaf:id  "7006740165" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032486103&doi=10.1183%2f16000617.0040-2017&partnerID=40&md5=48b073f394dd966d32788da3c26a6bff>
+foaf:year "2018" ;
+foaf:title "Is mitochondrial dysfunction a driving mechanism linking COPD to nonsmall cell lung carcinoma?" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "Chronic obstructive pulmonary disease (COPD) patients are at increased risk of developing nonsmall cell lung carcinoma, irrespective of their smoking history. Although the mechanisms behind this observation are not clear, established drivers of carcinogenesis in COPD include oxidative stress and sustained chronic inflammation. Mitochondria are critical in these two processes and recent evidence links increased oxidative stress in COPD patients to mitochondrial damage. We therefore postulate that mitochondrial damage in COPD patients leads to increased oxidative stress and chronic inflammation, thereby increasing the risk of carcinogenesis. The functional state of the mitochondrion is dependent on the balance between its biogenesis and degradation (mitophagy). Dysfunctional mitochondria are a source of oxidative stress and inflammasome activation. In COPD, there is impaired translocation of the ubiquitin-related degradation molecule Parkin following activation of the Pink1 mitophagy pathway, resulting in excessive dysfunctional mitochondria. We hypothesise that deranged pathways in mitochondrial biogenesis and mitophagy in COPD can account for the increased risk in carcinogenesis. To test this hypothesis, animal models exposed to cigarette smoke and developing emphysema and lung cancer should be developed. In the future, the use of mitochondria-based antioxidants should be studied as an adjunct with the aim of reducing the risk of COPD-associated cancer. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Ng Kee Kwong F." ;
+foaf:id  "55828297100" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Nicholson A.G." ;
+foaf:id  "7201890673" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Harrison C.L." ;
+foaf:id  "57191953268" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Hansbro P.M." ;
+foaf:id  "6603119390" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Adcock I.M." ;
+foaf:id  "7007066538" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Chung K.F." ;
+foaf:id  "57191526254" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040734396&partnerID=40&md5=7ad8fe3dd11f2656d24eb0ffe5482c94>
+foaf:year "2018" ;
+foaf:title "Cissus quadrangularis protects cell surface glycoconjugates during 7,12-dimethylbenz(a)anthracene induced oral carcinogenesis" ;
+foaf:source_title "International Journal of Research in Pharmaceutical Sciences" ;
+foaf:abstract "Glycoproteins play a pivotal role in the maintenance of cellular integrity and thus alterations in the status of glycoproteins could lead to several pathological conditions including malignant transformation. The aim of the present study is to explore the effect of the ethanolic extract of the Cissus quadrangularis leaves on the plasma and buccal mucosa glycoproteins in 7,12-dimethylbenz(a)anthracene (DMBA) induced hamster buccal pouch carcinogenesis. Oral carcinoma was induced in the hamsters’ buccal pouch using the site specific carcinogen, DMBA (3 times a week for 14 weeks, topical application). Plasma and buccal mucosa glycoproteins were found to be enhanced in both the plasma and buccal mucosa of hamsters treated with DMBA alone (tumor bearing hamsters). The status of glycoproteins was found to be reverted in hamsters treated with DMBA + Cissus quadrangularis leaves. The present results thus reveal the defensive role of the Cissus quadrangularis leaves in preserving the cellular integrity during DMBA induced oral carcinogenesis. © J. K. Welfare & Pharmascope Foundation." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Velvizhi V." ;
+foaf:id  "57200307515" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Manoharan S." ;
+foaf:id  "34971576900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Begum M.S." ;
+foaf:id  "57200305257" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Buddhan R." ;
+foaf:id  "57195364831" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Cissus quadrangularis" ;
+],
+[
+foaf:keyword  " DMBA" ;
+],
+[
+foaf:keyword  " Glycoproteins" ;
+],
+[
+foaf:keyword  " Oral cancer" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032463387&doi=10.1183%2f16000617.5054-2017&partnerID=40&md5=8aa347e39ea11938a80a5fac05554d6a>
+foaf:year "2018" ;
+foaf:title "Erratum: Intersections of lung progenitor cells, lung disease and lung cancer (Eur Respir Rev, (2017) 26, 170054, 10.1183/16000617.0054-2017)" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "Unfortunately, the caption for figure 1 of this article in the June 2017 issue of the European Respiratory Review contained incorrect citation details. The images were provided courtesy of Samuel P. Rowbotham (Boston Children’s Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA; and Harvard Stem Cell Institute, Cambridge, MA, USA), and were not reproduced from a previous article in Cell (Lee et al., Cell 2014; 156: 440-455), as stated in the original caption. The article has been corrected and republished online. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "[No author name available]" ;
+foaf:id  "[No author id available]" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052239842&doi=10.5604%2f01.3001.0010.6733&partnerID=40&md5=98033f40fded07c17d6eaf63c672bdf9>
+foaf:year "2018" ;
+foaf:title "Peritoneal metastases of colorectal origin-cytoreductive surgery and hyperthermic intraperitoneal chemotherapy (HIPEC). the financial aspect" ;
+foaf:source_title "Polski Przeglad Chirurgiczny/ Polish Journal of Surgery" ;
+foaf:abstract "About 10% to 15% of patients with colon cancer have intraperitoneal metastases at diagnosis. The patients with intraperitoneal metastases and without distant metastases can benefit from cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC). Because up to a half of patients live for at least 5 years after this treatment, the treatment is used more and more often. The treatment of patients with intraperitoneal metastases with CRS and HIPEC costs more than the majority of other medical procedures, because CRS is extensive and takes a lot of time, and after surgery, patients need intensive care and expensive medications and equipment. Currently, only 40% to 80% of costs of CRS and HIPEC are reimbursed in Poland. Because CRS and HIPEC mean a financial loss to hospitals, they are rarely performed. We analyzed the costs of treating patients with peritoneal metastases by CRS and HIPEC in two centers (Gdank, Wroclaw) and showed how this treatment is reimbursed outside Poland. We discussed whether adequate qualification of patients and experience of the teams giving the treatment could reduce the costs. © 2018 Fundacja Polski Przeglad Chirurgiczny." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Jastrzebski T." ;
+foaf:id  "56238429200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Bebenek M." ;
+foaf:id  "56008925700" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "HIPEC" ;
+],
+[
+foaf:keyword  " medical costs" ;
+],
+[
+foaf:keyword  " metastases to the peritoneum" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023639175&doi=10.1016%2fj.scitotenv.2017.07.022&partnerID=40&md5=729f5b78d3544f17c9b7c4361efb1a9c>
+foaf:year "2018" ;
+foaf:title "The use of gamma-survey measurements to better understand radon potential in urban areas" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "Accounting for as much as 14% of all lung cancers worldwide, cumulative radon progeny exposure is the leading cause of lung cancer among never-smokers both internationally and in the United States. To understand the risk of radon progeny exposure, studies have mapped radon potential using aircraft-based measurements of gamma emissions. However, these efforts are hampered in urban areas where the built environment obstructs aerial data collection. To address part of this limitation, this study aimed to evaluate the effectiveness of using in situ gamma readings (taken with a scintillation probe attached to a ratemeter) to assess radon potential in an urban environment: DeKalb County, part of the Atlanta metropolitan area, Georgia, USA. After taking gamma measurements at 402 survey sites, empirical Bayesian kriging was used to create a continuous surface of predicted gamma readings for the county. We paired these predicted gamma readings with indoor radon concentration data from 1351 residential locations. Statistical tests showed the interpolated gamma values were significantly but weakly positively related with indoor radon concentrations, though this relationship is decreasingly informative at finer geographic scales. Geology, gamma readings, and indoor radon were interrelated, with granitic gneiss generally having the highest gamma readings and highest radon concentrations and ultramafic rock having the lowest of each. Our findings indicate the highest geogenic radon potential may exists in the relatively undeveloped southeastern part of the county. It is possible that in situ gamma, in concert with other variables, could offer an alternative to aerial radioactivity measurements when determining radon potential, though future work will be needed to address this project's limitations. © 2017" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Berens A.S." ;
+foaf:id  "57194858197" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Diem J." ;
+foaf:id  "7003536471" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Stauber C." ;
+foaf:id  "14720217100" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Dai D." ;
+foaf:id  "15822088900" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Foster S." ;
+foaf:id  "23008134800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Rothenberg R." ;
+foaf:id  "7005459918" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Gamma" ;
+],
+[
+foaf:keyword  " Geology" ;
+],
+[
+foaf:keyword  " Public health" ;
+],
+[
+foaf:keyword  " Radiation" ;
+],
+[
+foaf:keyword  " Radon" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040990572&partnerID=40&md5=ff47095a196251003aea0db8b11d5ab7>
+foaf:year "2018" ;
+foaf:title "A comparative review on sweet honey and bitter honey" ;
+foaf:source_title "International Journal of Research in Pharmaceutical Sciences" ;
+foaf:abstract "Honey is a sugary secretion deposited in the honey comb by the bee, Apis dorsata and possibly other species of Apis, e. g. Apis indica, Apis florae, etc. usually contain a variety of nutritional and mineral substances. Honey is an ingredient in most of the Ayurvedic preparations due to its therapeutic use in the treatment of cancer, nervous disorder, and muscular weakness and to treat several infections. There are different types of honey available, in that, bitter honey has been shown that it contains bioactive compounds. Antinutritional qualitative and quantitative analysis of bitter honey shows the presence of flavonoids, saponin glycosides whereas steroids were detected only in sweet honey. Bitter honey obtained from strawberry tree has showed interesting antioxidant antiradical activities and protective effect against thermal cholesterol degradation. It also induces the growth inhibition of human cancer cells. The quality of honey is governed by FSSAI, AGMARK and various pharmacopoeias available for honey. But there is no standard monograph available for bitter honey also the demand for this natural product is increasing globally. So the review work is proposed for the further research in developing the standard monograph and pharmacognostical study for bitter honey. © JK Welfare & Pharmascope Foundation | International Journal of Research in Pharmaceutical Sciences." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Gopal V." ;
+foaf:id  "55498142500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Joshna K." ;
+foaf:id  "56896032200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Kavitha B." ;
+foaf:id  "7801347680" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Bitter honey" ;
+],
+[
+foaf:keyword  " Comparative study" ;
+],
+[
+foaf:keyword  " Strawberry tree honey" ;
+],
+[
+foaf:keyword  " Sweet honey" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039703741&doi=10.1080%2f10410236.2017.1418190&partnerID=40&md5=85b76abfc0f3054a629eec3637348ba6>
+foaf:year "2018" ;
+foaf:title "Defining Moments and Healing Emplotment: “I Have Cancer; It Doesn’t Have Me”" ;
+foaf:source_title "Health Communication" ;
+foaf:abstract "Whereas illness, sickness, and disease are dark clouds on the horizon of our lives, the complex process of healing is our sunrise. In this essay, I introduce the concept of healing emplotment, a lived process of knowingly bringing together strategies for self-awareness, the creation of hope, and the management of risk to overcome psychosocial peril. This results in a purposeful re-authoring of the self in society, personhood, in the face of life-threatening events. Rather than only bringing threats to which the stricken must respond, serious illness can also present opportunities for narrative re-authoring of our biopsychosocial self. © 2017 Taylor & Francis Group, LLC" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Small D." ;
+foaf:id  "9043148300" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026230665&doi=10.1016%2fj.scitotenv.2017.07.120&partnerID=40&md5=645c7acd6a0101e2f036dd22515e5f69>
+foaf:year "2018" ;
+foaf:title "Biomarkers of arsenic exposure in arsenic-affected areas of the Hetao Basin, Inner Mongolia" ;
+foaf:source_title "Science of the Total Environment" ;
+foaf:abstract "Seventy saliva samples, seventy urine samples, seventy nail samples, seventy hair samples, eight drinking water samples and ninety-three crop samples were collected from four villages of the Hetao Basin in Inner Mongolia to determine arsenic (As) exposure biomarkers and evaluate relationship between As uptake and human health risk. Trivalent As (As(III)), pentavalent As (As(V)), dimethylarsinic acid (DMA), arsenobetaine (AsB) and monomethylarsonic acid (MMA) were found in all urine samples. Only As(III) and As(V) were detected in saliva samples. In nail and hair samples, DMA, MMA, As(III) and As(V) were observed. Based on total As contents in crops and drinking water, the local residents’ daily intake of total arsenic (TDIAs), the hazard quotient (HQ), and the cancer risk (R) were assessed. Male, older and cases of skin lesion participants generally had higher As contents in saliva, urine, nail and hair samples in relative to others. Salivary, urinary, nail and hair As were not significantly affected by body mass index (BMI) and smoking. Good correlations were observed between TDIAs and salivary, urinary, nail and hair As, showing that saliva, urine, nail and hair samples can be used as biomarkers of As exposure. Individually, levels of arsenicosis were positively correlated with TDIAs. The relationship between TDIAs and prevalence of arsenicosis concluded that, although As levels in crops and drinking water did not exceed national standards, they still pose a potential threat to human health. It was suggested that the maximum permissible levels of crop As and drinking water As should be re-evaluated for protecting human health. © 2017 Elsevier B.V." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Liu T." ;
+foaf:id  "57195200054" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Guo H." ;
+foaf:id  "57199443122" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Xiu W." ;
+foaf:id  "56584138000" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Wei C." ;
+foaf:id  "36912955600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Li X." ;
+foaf:id  "57195199574" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Di Z." ;
+foaf:id  "57195201015" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Song W." ;
+foaf:id  "57195196238" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Arsenic" ;
+],
+[
+foaf:keyword  " China" ;
+],
+[
+foaf:keyword  " Chronic poisoning" ;
+],
+[
+foaf:keyword  " Food chain" ;
+],
+[
+foaf:keyword  " Groundwater" ;
+],
+[
+foaf:keyword  " Saliva" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041133773&doi=10.1021%2facsomega.7b01506&partnerID=40&md5=5fa781bee686b75d3c04f5420709f182>
+foaf:year "2018" ;
+foaf:title "Supramolecular Host-Guest Chemistry-Based Folate/Riboflavin Functionalization and Cancer Cell Labeling of Nanoparticles" ;
+foaf:source_title "ACS Omega" ;
+foaf:abstract "Nanoparticle-based cellular probes are commonly designed via covalent conjugation with affinity biomolecules. Those nanobioconjugates selectively interact with cell surface receptors and induce endocytosis followed by intracellular trafficking. However, this approach requires functional modification of biomolecules that may alter their biochemical activity. Here, we show that supramolecular host-guest chemistry can be utilized as an alternative approach in nanoparticle functionalization and selective cell labeling. We have used cyclodextrin-conjugated quantum dots (QDs) for supramolecular host-guest interaction-based functionalization with folate (QD-folate) and riboflavin (QD-riboflavin), where cyclodextrin acts as a host for the folate/riboflavin guest. We demonstrate that QD-folate and QD-riboflavin selectively label cells that have over-expressed folate/riboflavin receptors and induce the endocytosis pathway similar to covalently conjugated folate-/riboflavin-based nanoprobes. However, labeling is highly sensitive to the molar ratio of folate/riboflavin to cyclodextrin and incubation time. The presented functionalization/labeling approach is unique as it does not require covalent conjugation and may be extended for in vivo targeting application via simultaneous delivery of host and guest molecules. © 2017 American Chemical Society." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Pal S." ;
+foaf:id  "57204549827" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Dalal C." ;
+foaf:id  "57188856068" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Jana N.R." ;
+foaf:id  "7006695922" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051516621&doi=10.14348%2fmolcells.2017.0201&partnerID=40&md5=6c13313d1718145f506967907d68d07f>
+foaf:year "2018" ;
+foaf:title "Inhibition of Autolysis by Lipase LipA in Streptococcus pneumoniae Sepsis" ;
+foaf:source_title "Molecules and cells" ;
+foaf:abstract "More than 50% of sepsis cases are associated with pneumonia. Sepsis is caused by infiltration of bacteria into the blood via inflammation, which is triggered by the release of cell wall components following lysis. However, the regulatory mechanism of lysis during infection is not well defined. Mice were infected with Streptococcus pneumoniae D39 wild-type (WT) and lipase mutant (ΔlipA) intranasally (pneumonia model) or intraperitoneally (sepsis model), and survival rate and pneumococcal colonization were determined. LipA and autolysin (LytA) levels were determined by qPCR and western blotting. S. pneumoniae Spd_1447 in the D39 (type 2) strain was identified as a lipase (LipA). In the sepsis model, but not in the pneumonia model, mice infected with the ΔlipA displayed higher mortality rates than did the D39 WT-infected mice. Treatment of pneumococci with serum induced LipA expression at both the mRNA and protein levels. In the presence of serum, the ΔlipA displayed faster lysis rates and higher LytA expression than the WT, both in vitro and in vivo. These results indicate that a pneumococcal lipase (LipA) represses autolysis via inhibition of LytA in a sepsis model." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Kim G.-L." ;
+foaf:id  "56576860500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Luong T.T." ;
+foaf:id  "56294098300" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Park S.-S." ;
+foaf:id  "55261671300" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Lee S." ;
+foaf:id  "56835396600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ha J.A." ;
+foaf:id  "55711056100" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Nguyen C.T." ;
+foaf:id  "56326271600" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ahn J.H." ;
+foaf:id  "57203388191" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Park K.-T." ;
+foaf:id  "57203398637" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Paik M.-J." ;
+foaf:id  "57203384404" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Suhkneung-Pyo" ;
+foaf:id  "57203391288" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Briles D.E." ;
+foaf:id  "26643455500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Rhee D.-K." ;
+foaf:id  "7004536050" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "infection" ;
+],
+[
+foaf:keyword  " LipA" ;
+],
+[
+foaf:keyword  " LytA" ;
+],
+[
+foaf:keyword  " S. pneumoniae" ;
+],
+[
+foaf:keyword  " sepsis" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039719314&doi=10.1183%2f16000617.0094-2017&partnerID=40&md5=c29b47c6f5b714682fce724f0deeffd1>
+foaf:year "2018" ;
+foaf:title "Metabolic dysfunction in pulmonary hypertension: From basic science to clinical practice" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "Pulmonary hypertension (PH) is an often-fatal vascular disease of unclear molecular origins. The pulmonary vascular remodelling which occurs in PH is characterised by elevated vasomotor tone and a pro-proliferative state, ultimately leading to right ventricular dysfunction and heart failure. Guided in many respects by prior evidence from cancer biology, recent investigations have identified metabolic aberrations as crucial components of the disease process in both the pulmonary vessels and the right ventricle. Given the need for improved diagnostic and therapeutic options for PH, the development or repurposing of metabolic tracers and medications could provide an effective avenue for preventing or even reversing disease progression. In this review, we describe the metabolic mechanisms that are known to be dysregulated in PH; we explore the advancing diagnostic testing and imaging modalities that are being developed to improve diagnostic capability for this disease; and we discuss emerging drugs for PH which target these metabolic pathways. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Chan S.Y." ;
+foaf:id  "55261942200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Rubin L.J." ;
+foaf:id  "7201363099" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040976375&partnerID=40&md5=ebd6a5f050e639785c050d01953c45c6>
+foaf:year "2018" ;
+foaf:title "Anti-inflammatory properties of rosmarinic acid - A review" ;
+foaf:source_title "International Journal of Research in Pharmaceutical Sciences" ;
+foaf:abstract "Phytochemicals are natural, non nutritive chemicals rich in pharmacological activities. They show a very potent antioxidant activity and this activity is closely linked to various beneficial actions, including anti-aging, prevention of cancer, cardiovascular disease, etc. Medicinal plants play a vital role in drug discovery that can be used to cure various ailments in humans. A safe new phytochemical compound as drugs is one of the major searches worldwide. Rosmarinic acid, a polyphenolic compound is generally available in the wide species of the Boraginaceae and Lamiaceae family (Nepetoideae subfamily). The phytochemical has two phenolic rings with ortho positioned hydroxyl groups. A carboxylic acid, carbonyl group and an unsaturated double bond is present between the two phenolic rings. The compound is thus an ester linked caffeic acid and 3, 4-dihydroxyphenyllactic acid. It has a broad range of biological activity that includes antiviral, antibacterial, antitumor, antihepatitis, anti-inflammation and inhibiting blood clots. Inflammation, a localized protective response elicited by injury or destructions of tissues, is mediated by various proinflammatory cytokines, is associated with every health condition. Inflammation is also important cause for many allergic diseases. Rosmarinic acid, being one of the promising active principles, can be developed for various pharmacological activities through clinical trials and applications further. This review aimed to describe the antiinflammatory properties of rosmarinic acid in various diseased conditions and to understand its basic mechanisms. © JK Welfare & Pharmascope Foundation | International Journal of Research in Pharmaceutical Sciences." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Chockalingam N." ;
+foaf:id  "57200373442" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Muruhan S." ;
+foaf:id  "55568843100" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Anti-inflammatory properties" ;
+],
+[
+foaf:keyword  " Inflammation" ;
+],
+[
+foaf:keyword  " Phytochemicals" ;
+],
+[
+foaf:keyword  " Rosmarinic acid" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039699889&doi=10.1183%2f16000617.0095-2017&partnerID=40&md5=286a8a8aced56534503ea0547fc65edc>
+foaf:year "2018" ;
+foaf:title "Pulmonary arterial hypertension: Tailoring treatment to risk in the current era" ;
+foaf:source_title "European Respiratory Review" ;
+foaf:abstract "Recent advances in the treatment of pulmonary arterial hypertension (PAH) have led to improved patient outcomes. Multiple PAH therapies are now available and optimising the use of these drugs in clinical practice is vital. In this review, we discuss the management of PAH patients in the context of current treatment guidelines and supporting clinical evidence. In clinical practice, considerable emphasis is placed on the importance of making treatment decisions guided by each patient’s risk status, which should be assessed using multiple prognostic parameters. As PAH is a progressive disease, regular assessments are essential to ensure that any change in risk is detected in a timely manner and treatment is adjusted accordingly. With the availability of therapies that target three different pathogenic pathways, combination therapy is now the standard of care. For most patients, this involves dual combination therapy with agents targeting the endothelin and nitric oxide pathways. Therapies targeting the prostacyclin pathway should be added for patients receiving dual combination therapy who do not achieve a low-risk status. There is also a need for a holistic approach to treatment beyond pharmacological therapies. Implementation of all these approaches will ensure that PAH patients receive maximal benefit from currently available therapies. © ERS 2017." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Gaine S." ;
+foaf:id  "35264010200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " McLaughlin V." ;
+foaf:id  "7003932904" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039694600&doi=10.1364%2fAOP.9.000775&partnerID=40&md5=5786be159302376d4cc7178b788eb156>
+foaf:year "2018" ;
+foaf:title "Losses in plasmonics: From mitigating energy dissipation to embracing loss-enabled functionalities" ;
+foaf:source_title "Advances in Optics and Photonics" ;
+foaf:abstract "Unlike conventional optics, plasmonics enables unrivaled concentration of optical energy well beyond the diffraction limit of light. However, a significant part of this energy is dissipated as heat. Plasmonic losses present a major hurdle in the development of plasmonic devices and circuits that can compete with other mature technologies. Until recently, they have largely kept the use of plasmonics to a few niche areas where loss is not a key factor, such as surface-enhanced Raman scattering and biochemical sensing. Here, we discuss the origin of plasmonic losses and various approaches to either minimize or mitigate them based on understanding of fundamental processes underlying surface plasmon modes excitation and decay. Along with the ongoing effort to find and synthesize better plasmonic materials, optical designs that modify the optical powerflow through plasmonic nanostructures can help in reducing both radiative damping and dissipative losses of surface plasmons. Another strategy relies on the development of hybrid photonic-plasmonic devices by coupling plasmonic nanostructures to resonant optical elements. Hybrid integration not only helps to reduce dissipative losses and radiative damping of surface plasmons, but also makes possible passive radiative cooling of nanodevices. Finally, we review emerging applications of thermoplasmonics that leverage Ohmic losses to achieve new enhanced functionalities. The most successful commercialized example of a loss-enabled novel application of plasmonics is heat-assisted magnetic recording. Other promising technological directions include thermal emission manipulation, cancer therapy, nanofabrication, nanomanipulation, plasmon-enabled material spectroscopy and thermo-catalysis, solar water treatment, and thermophotovoltaics. © 2017 Optical Society of America." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Boriskina S.V." ;
+foaf:id  "6701613358" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Cooper T.A." ;
+foaf:id  "7402592499" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Zeng L." ;
+foaf:id  "56666553800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Ni G." ;
+foaf:id  "54880285800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Tong J.K.-K." ;
+foaf:id  "35977118400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Tsurimaki Y." ;
+foaf:id  "57193838174" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Huang Y." ;
+foaf:id  "56459220400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Meroueh L." ;
+foaf:id  "57192808756" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Mahan G." ;
+foaf:id  "7005276583" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Chen G." ;
+foaf:id  "57114559800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Micro-optical devices" ;
+],
+[
+foaf:keyword  " Photothermal effects" ;
+],
+[
+foaf:keyword  " Sensors" ;
+],
+[
+foaf:keyword  " Surface photoemission and photoelectron spectroscopy" ;
+],
+[
+foaf:keyword  " Surface plasmons" ;
+],
+[
+foaf:keyword  " Thermal emission" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040611413&doi=10.12659%2fMSM.905451&partnerID=40&md5=6587b49edd3537b6280436ac6c909fa3>
+foaf:year "2018" ;
+foaf:title "Surgical treatment of cardiac tumors: Insights from an 18-year single-center analysis" ;
+foaf:source_title "Medical Science Monitor" ;
+foaf:abstract "Background: The aim of this study was to investigate the clinical presentation, operative data, and early and late outcomes of a large patient cohort undergoing surgical treatment for cardiac tumors in our institution. Material/Methods: A total of 181 patients underwent surgery because of suspected cardiac tumor in our institution between 1998 and 2016. In 162 cases, the diagnosis was confirmed postoperatively and these patients were included in this study. Preoperative baseline characteristics, operative data, and postoperative early and long-term outcomes were analyzed. Results: Mean age at presentation was 56.6±17.6 years, and 95 (58.6%) patients were female. There were 126 (77.8%) patients with benign cardiac tumors, while the remaining patients had malignant tumors (primary and metas-tasized). The mean follow-up time was 5.2±4.7 years. The most frequent histologically verified tumor type was myxoma (63%, n=102). In terms of malignant tumors, various types of sarcomas presented most primary malignant cardiac tumors (7.4%, n=12). The mean ICU length of stay was 1.7±2.2 days and overall in-hospital mortality was 3.1% (n=5). Frequent postoperative complications included mediastinal bleeding (5.8%, n=9), wound infection (1.3%, n=2), acute renal failure (5.6%, n=9), and major cerebrovascular events (n=7, 4.6%). The overall cumulative survival after cardiac tumor resection was 94% at 30 days, 85% at 1 year, 72% at 5 years, and 59% at 15 years. Conclusions: Surgical treatment of cardiac tumors is a safe and highly effective strategy associated with good early and long-term outcomes. © Med Sci Monit." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Mkalaluh S." ;
+foaf:id  "56328033000" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Szczechowicz M." ;
+foaf:id  "36477823400" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Torabi S." ;
+foaf:id  "57200273293" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Schmack B." ;
+foaf:id  "48661389200" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Sabashnikov A." ;
+foaf:id  "53464306800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Dib B." ;
+foaf:id  "57200285153" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Karck M." ;
+foaf:id  "7006019086" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Weymann A." ;
+foaf:id  "57205637863" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Cardiac surgical procedures" ;
+],
+[
+foaf:keyword  " Heart neoplasms" ;
+],
+[
+foaf:keyword  " Patient outcome assessment" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042644491&doi=10.1007%2f978-981-10-4726-8_1&partnerID=40&md5=e9f70f4cdbee5548aecde95fa89535b2>
+foaf:year "2018" ;
+foaf:title "Cancer biomarkers: Important tools for cancer diagnosis and prognosis" ;
+foaf:source_title "Next Generation Point-of-care Biomedical Sensors Technologies for Cancer Diagnosis" ;
+foaf:abstract "[No abstract available]" ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Padmavathi G." ;
+foaf:id  "56743039800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Bordoloi D." ;
+foaf:id  "57192188690" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Banik K." ;
+foaf:id  "57194853569" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Kunnumakkara A.B." ;
+foaf:id  "14630663000" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042631164&doi=10.1007%2f978-981-10-4726-8&partnerID=40&md5=063e420d5755a0c06389b302f04ce457>
+foaf:year "2018" ;
+foaf:title "Next generation point-of-care biomedical sensors technologies for cancer diagnosis" ;
+foaf:source_title "Next Generation Point-of-care Biomedical Sensors Technologies for Cancer Diagnosis" ;
+foaf:abstract "This book presents recent research on cancer detection methods based on nanobiosensors, which offer ultrasensitive point-of-care diagnosis. Several methods for diagnosing cancer have been discovered and many more are currently being developed. Conventional clinical approaches to detecting cancers are based on a biopsy followed by histopathology, or on the use of biomarkers (protein levels or nucleic acid content). Biopsy is the most widely used technique; however, it is an invasive technique and is not always applicable. Furthermore, biomarker-based detection cannot be relied on when the biomarkers are present in an extremely low concentration in the body fluids and in malignant tissues. Thus, in recent years highly sensitive and robust new cancer diagnosis techniques have been developed for clinical application, and may offer an alternative strategy for cancer diagnosis. As such, this book gathers the latest point-of-care cancer diagnostic methods and protocols based on biomedical sensors, microfluidics, and integrated systems engineering. It also discusses recent developments and diagnostics tests that can be conducted outside the laboratory in remote areas. These technologies include electrochemical sensors, paper-based microfluidics, and other kit-based diagnostic methods that can be adapted to bring cancer detection and diagnostics to more remote settings around the globe. Overall, the book provides students, researchers, and clinicians alike a comprehensive overview of interdisciplinary approaches to cancer diagnosis. © Springer Nature Singapore Pte Ltd. 2017. All rights reserved." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Chandra P." ;
+foaf:id  "42961281300" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Tan Y.N." ;
+foaf:id  "22635971000" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Singh S.P." ;
+foaf:id  "57202479151" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041509693&partnerID=40&md5=0ba54ef1810819a382af437a073269a7>
+foaf:year "2018" ;
+foaf:title "Recent advances in research and therapeutic application of cannabinoids in cancer disease" ;
+foaf:source_title "Pharmacologyonline" ;
+foaf:abstract "The endocannabinoid system, comprising the cannabinoid receptors type 1 (CB1) and type 2 (CB2), their endogenous ligands (endocannabinoids), and the proteins that regulate endocannabinoid biosynthesis and degradation, controls several physiological and pathological functions. Indeed, recent evidence indicates that endocannabinoids influence the intracellular events controlling the proliferation and apoptosis of numerous types of cancer cells, thereby leading to both in vitro and in vivo antitumour effects. Also, the endogenous ligand arachidonoyl ethanolamide (anandamide; AEA) inhibits the proliferation of human breast cancer cells by blocking the G0/G1-S-phase transition of the cell cycle through interference with cannabinoid CB1 receptor-coupled signal-transducing events. The present review shows that cannabinoids exert their anti-cancer effects in a number of ways and in a variety of tissues. Furthermore, the novel therapeutic application of cannabinoids in cancer disease, described here, strongly support the idea that cannabinoids may induce benefical effect in cancer treatment. © 2017, SILAE (Italo-Latin American Society of Ethnomedicine). All rights reserved." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Milano W." ;
+foaf:id  "6506818987" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Padricelli U." ;
+foaf:id  "57201439265" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Capasso A." ;
+foaf:id  "57202774289" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Cancer treatment" ;
+],
+[
+foaf:keyword  " Cannabinoid" ;
+],
+[
+foaf:keyword  " Therapeutic application" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040334939&doi=10.5604%2f01.3001.0010.7193&partnerID=40&md5=5f4739e92886697e6005c71fc7e4b8c5>
+foaf:year "2018" ;
+foaf:title "Updated national comprehensive cancer network guidelines for treatment of head and neck cancers 2010-2017 [Zmiany algorytmów leczenia nowotworów głowy i szyi w latach 2010-2017 oparte o wytyczne NCCN]" ;
+foaf:source_title "Otolaryngologia Polska" ;
+foaf:abstract "Introduction: The diagnostic and therapeutic recommendations have been changing over the years to improve treatment outcomes and quality of life of Head and Neck Cancer (HNC) patients. Aim: The aim of this study was to present currently recommended Head and Neck Cancer treatment guidelines based on the literature review with particular emphasis on novel approaches the NCCN algorithms. Material and methods: The review of literature covering articles published in the last five years and pointing out essential changes in HNC treatment regarding evidence based medicine. The study focused on the analysis of novel approaches for the particular primaries, the implementation of biological therapies and personalized cancer therapies. Results: Updates in the oncological NCCN guidelines for all ENT primaries except major salivary glands and subglottis are based on knowledge derived from the basic sciences, clinical trials and the best evidence available currently. The latest recommendations emphasize value of biological therapies use." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Wierzbicka M." ;
+foaf:id  "7004893417" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Napierała J." ;
+foaf:id  "57200229078" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "Biological therapy" ;
+],
+[
+foaf:keyword  " Head and neck cancers treatment guidelines" ;
+],
+[
+foaf:keyword  " Personalized treatment" ;
+],
+[
+foaf:keyword  " Recommendations" ;
+].
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-85008230273&doi=10.1080%2f2162402X.2016.1257454&partnerID=40&md5=4469dacac8258f169a19f1a44ea20a65>
+foaf:year "2018" ;
+foaf:title "Pd-l1 (CD274) promoter methylation predicts survival in colorectal cancer patients" ;
+foaf:source_title "OncoImmunology" ;
+foaf:abstract "This study evaluates promoter methylation of the programmed cell death ligand 1 (PD-L1) as a biomarker in a cohort of 383 colorectal cancer patients. PD-L1 methylation (mPD-L1) was inversely correlated with PD-L1 mRNA expression (p D 0.001) and was associated with significantly shorter overall survival (OS, p D 0.003) and recurrence-free survival (RFS, p < 0.001). In age-stratified multivariate Cox proportional hazards analyses including sex, tumor, nodal, distant metastasis categories, microsatellite instability (MSI)-status, and PD-L1 mRNA, mPD-L1 is classified as an independent prognostic factor (OS: p D 0.030; RFS: p < 0.001). Further studies are needed to evaluate PD-L1 methylation as a biomarker for response prediction of immunotherapies targeting the PD-1/PD-L1 axis. © 2017 Taylor & Francis Group, LLC." ;
+rdf:type <http://dbpedia.org/ontology/Article>;
+foaf:source <https://www.scopus.com/>;
+foaf:authors [
+foaf:name  "Goltz D." ;
+foaf:id  "55247061300" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Gevensleben H." ;
+foaf:id  "26421709500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Dietrich J." ;
+foaf:id  "26634987500" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+],
+[
+foaf:name  " Dietrich D." ;
+foaf:id  "15836833800" ;
+foaf:type  <http://dbpedia.org/ontology/Author>
+];
+foaf:keywords [
+foaf:keyword  "CD274" ;
+],
+[
+foaf:keyword  " Colorectal cancer" ;
+],
+[
+foaf:keyword  " DNA methylation" ;
+],
+[
+foaf:keyword  " Immunotherapeutic" ;
+],
+[
+foaf:keyword  " Immunotherapies" ;
+],
+[
+foaf:keyword  " Immunotherapy" ;
+],
+[
+foaf:keyword  " Microsatellite instability" ;
+],
+[
+foaf:keyword  " PD-L1" ;
+],
+[
+foaf:keyword  " Prognostic biomarker" ;
+].
