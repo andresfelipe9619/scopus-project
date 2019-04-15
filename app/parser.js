@@ -1,6 +1,6 @@
 const fs = require("fs");
 var slugify = require("slugify");
-let rawdata = fs.readFileSync("./scopus.json");
+let rawdata = fs.readFileSync("./input/scopus.json");
 let scopus = JSON.parse(rawdata);
 let documents = scopus.map(document => {
   let newDocument = {};
@@ -38,7 +38,7 @@ let documents = scopus.map(document => {
 });
 try {
   let fileData = JSON.stringify(documents[0]);
-  fs.writeFileSync("./output/after.json", fileData);
+  fs.writeFileSync("./output/parsed_scopus.json", fileData);
   console.log("File parsed successfully!");
 } catch (e) {
   console.error("Error trying to parse json", e);
