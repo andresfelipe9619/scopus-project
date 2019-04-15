@@ -2,20 +2,40 @@
 
 A little info about your project and/ or overview that explains **what** the project is about.
 
-## Built with
+## Hecho con
 
-- [Fuseki](https://electron.atom.io)
-- [Sparql](https://electron.atom.io)
-- [Nodejs](https://electron.atom.io)
+- Fuseki
+- Sparql
+- Nodejs
 
-## Features
+## Instalación
 
-What makes your project stand out?
+Construye la imagen
 
-## Installation
+```
+docker build -t scopus-image .
+```
 
-Provide step by step series of examples and explanations about how to get a development env running.
+Corre un contenedor a partir de la imagen creada
 
-## How to use?
+```
+docker run -d -p 8080:3030 --name scopus-project scopus-image
+```
 
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+Entra al contenedor
+
+```
+docker exec -it scopus-project /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+```
+
+Y carga el dataset
+
+```
+sh load.sh ${FUSEKI_DATASET} triples.ttl
+```
+
+## ¿Cómo usarlo?
+
+Entra a Fuseki en http://localhost:8080, ya en Fuseki, vaya a "Manage datasets", haga clic en "Add new dataset", marque "Persistent" y proporcione el nombre de la base de datos exactamente como se proporciona a load.sh, en nuestro caso seria la variable \${FUSEKI_DATASET} que es igual a "scopus"
+
+Ahora vaya a Dataset, seleccione el menú desplegable y pruebe "Info and Query".
