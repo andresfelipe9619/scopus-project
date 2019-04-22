@@ -37,7 +37,7 @@ let documents = scopus.map(document => {
   return newDocument;
 });
 try {
-  let fileData = JSON.stringify(documents[0]);
+  let fileData = JSON.stringify(documents);
   fs.writeFileSync("./output/parsed_scopus.json", fileData);
   console.log("File parsed successfully!");
 } catch (e) {

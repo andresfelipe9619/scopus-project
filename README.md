@@ -1,7 +1,5 @@
 ## Scopus Final Project
 
-A little info about your project and/ or overview that explains **what** the project is about.
-
 ## Hecho con
 
 - Fuseki
@@ -31,7 +29,7 @@ docker exec -it scopus-project /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin
 Y carga el dataset
 
 ```
-sh load.sh ${FUSEKI_DATASET} triples.ttl
+sh load.sh ${FUSEKI_DATASET} document.ttl
 ```
 
 ## ¿Cómo usarlo?
