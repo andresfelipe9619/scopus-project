@@ -65,7 +65,7 @@
         bibo:number                  "" ;
         cito:isCitedBy               "" ;
         fabio:BibliographicDatabase  "Scopus" ;
-        fabio:hasPublicationYear     "2019" .
+        fabio:hasPublicationYear     "2018" .
 
 <http://ex.com/documents/The_interactivity_of_video_and_collaboration_for_learning_achievement,_intrinsic_motivation,_cognitive_load,_and_behavior_patterns_in_a_digital_game-based_learning_environment>
         a                            bibo:Article ;
@@ -83,7 +83,7 @@
         bibo:number                  "" ;
         cito:isCitedBy               "" ;
         fabio:BibliographicDatabase  "Scopus" ;
-        fabio:hasPublicationYear     "2019" .
+        fabio:hasPublicationYear     "2017" .
 
 <http://ex.com/documents/CV_Retrieval_System_based_on_job_description_matching_using_hybrid_word_embeddings>
         a                            bibo:Article ;
