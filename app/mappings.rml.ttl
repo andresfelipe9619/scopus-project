@@ -15,7 +15,7 @@
 
 <http://example.com/document>
     rml:logicalSource [
-	    rml:source "pruebarml.json";
+	    rml:source "output/parsed_scopus.json";
       rml:referenceFormulation ql:JSONPath;
       rml:iterator "$.[*]";
     ];
@@ -94,7 +94,6 @@
       rr:predicate prism:issueIdentifier;
       rr:objectMap [
         rml:reference "issue";
-        rr:datatype xsd:integer
       ]
     ];
 
@@ -144,7 +143,7 @@
 
 <http://example.com/author>
     rml:logicalSource [
-      rml:source "pruebarml.json";
+      rml:source "output/parsed_scopus.json";
       rml:referenceFormulation ql:JSONPath;
       rml:iterator "$.[*].authors[*]";
     ];
