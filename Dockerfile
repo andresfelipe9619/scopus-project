@@ -10,7 +10,7 @@ FROM stain/jena-fuseki as database
 
 LABEL MANTAINER="Andrés Suárez && Johan Hernández"
 COPY --from=parser /scopus/output/parsed_scopus.json /staging/
-COPY --from=parser /scopus/output/triples.ttl /staging/
+COPY --from=parser /scopus/output/document.ttl /staging/
 ENV ADMIN_PASSWORD=123
 ENV FUSEKI_DATASET=scopus
 EXPOSE 3030
