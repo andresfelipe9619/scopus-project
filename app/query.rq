@@ -5,10 +5,10 @@ prefix bibo:  <http://purl.org/ontology/bibo/>
 prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
 
 SELECT  (count(distinct ?author) as ?count){
-SELECT ?author WHERE { 
-            ?articles a bibo:Document.
-            ?articles bibo:writtenBy _:b.
-  			_:b foaf:name ?author .
-        } GROUP BY ?author
+  SELECT ?author WHERE { 
+    ?articles a bibo:Document.
+    ?articles bibo:writtenBy _:b.
+  	_:b foaf:name ?author .
+  } GROUP BY ?author
 }
 
