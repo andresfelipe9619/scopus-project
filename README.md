@@ -29,7 +29,7 @@ docker exec -it scopus-project /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin
 Y carga el dataset
 
 ```
-sh load.sh ${FUSEKI_DATASET} document.ttl
+sh load.sh ${FUSEKI_DATASET} triples.ttl
 ```
 
 ## ¿Cómo usarlo?
