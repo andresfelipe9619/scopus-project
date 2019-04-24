@@ -37,3 +37,14 @@ sh load.sh ${FUSEKI_DATASET} document.ttl
 Entra a Fuseki en http://localhost:8080, ya en Fuseki, vaya a "Manage datasets", haga clic en "Add new dataset", marque "Persistent" y proporcione el nombre de la base de datos exactamente como se proporciona a load.sh, en nuestro caso seria la variable \${FUSEKI_DATASET} que es igual a "scopus"
 
 Ahora vaya a Dataset, seleccione el menú desplegable y pruebe "Info and Query".
+Pruebe el query que se encuentra en la carpeta ./app/query.sparql
+
+```sql
+SELECT  (count(distinct ?author) as ?count){
+SELECT ?author WHERE {
+            ?articles a bibo:Document.
+            ?articles bibo:writtenBy _:b.
+  			_:b foaf:name ?author .
+        } GROUP BY ?author
+}
+```
